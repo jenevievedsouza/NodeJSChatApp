@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d5fefa21-7844-46fd-883f-5bb7c62b8072/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/JenesNodeJs"
+}
